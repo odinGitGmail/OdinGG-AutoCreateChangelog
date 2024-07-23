@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog/compare/v1.2.0...v1.2.1) (2024-07-23)
+
+
+### Features
+
+* ✨ test feater ([5c686ef](https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog/commit/5c686ef7b4f7fd09ed7c2edeb062394000a532fe))
+
+
+
 # [1.2.0](https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog/compare/v1.1.1...v1.2.0) (2024-07-23)
 
 
