@@ -11,3 +11,5 @@ OdinGG-AutoCreateChangelog
   }
 }
 ```
+
+修改版本号，执行 genChangeLog

@@ -3,6 +3,7 @@
 
 ### Features
 
+* ✨ add readme ([e2e7681](https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog/commit/e2e768152f8e0710baa9143b95725f55dbcdc68a))
 * ✨ test feater ([5c686ef](https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog/commit/5c686ef7b4f7fd09ed7c2edeb062394000a532fe))
 
 
