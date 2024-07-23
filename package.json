@@ -1,0 +1,21 @@
+{
+  "name": "odingg-autocreatechangelog",
+  "version": "1.0.2",
+  "description": "OdinGG-AutoCreateChangelog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version",
+    "genChangeLog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog/issues"
+  },
+  "homepage": "https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog#readme"
+}
