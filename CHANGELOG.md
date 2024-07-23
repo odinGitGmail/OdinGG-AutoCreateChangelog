@@ -1,6 +1,11 @@
 ## [1.2.1](https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog/compare/v1.2.0...v1.2.1) (2024-07-23)
 
 
+### Bug Fixes
+
+* 🐞 change readme ([8b7d88e](https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog/commit/8b7d88ede5d489fb6b7ec2fedddf6c33cf012cc2))
+
+
 ### Features
 
 * ✨ add readme ([e2e7681](https://github.com/odinGitGmail/OdinGG-AutoCreateChangelog/commit/e2e768152f8e0710baa9143b95725f55dbcdc68a))
